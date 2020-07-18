@@ -6,3 +6,5 @@ The dataset is given by machinehack.com and it is updated daily. The datasets ar
 Based on the daily updated data the training is done and the results are collected. For training RNN model is used to make prediction of the time series data. To make the network one LSTM network and one fully connected network(DENSE) is used. The model is trained everyday.
 # Result
 The result is predicted for death, recovered and confirmed issues everyday using the trained model then they are combined and the result is generated.
+# Scope
+Build a front end for this.
