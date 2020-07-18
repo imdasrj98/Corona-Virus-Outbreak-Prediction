@@ -7,4 +7,4 @@ Based on the daily updated data the training is done and the results are collect
 # Result
 The result is predicted for death, recovered and confirmed issues everyday using the trained model then they are combined and the result is generated.
 # Scope
-Build a front end for this.
+Build a front end for this using django and flask.
